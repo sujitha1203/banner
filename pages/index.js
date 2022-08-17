@@ -31,7 +31,7 @@ const Profile = () => {
 
                 <img src="profile.jpg" className="w-80 rounded-full border-6  border-white shadow-nd flex-shrink-0" />
               </div>
-              <div><a href="http://localhost:3000/banner" class="text-blue-600 visited:text-purple-600 ...">click here</a> to view my BANNER</div>
+              <div><a href="http://localhost:3000/banner" className="text-blue-600 visited:text-purple-600 ...">click here</a> to view my BANNER</div>
             </div>
           </div>
         </section>
