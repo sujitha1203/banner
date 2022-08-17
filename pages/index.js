@@ -3,7 +3,7 @@ const Profile = () => {
     <div className="antialiased flex justify-center  text-gray-600 ">
 
       <script src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-      <div class="absolute w-full min-h-screen">
+      <div className="absolute w-full min-h-screen">
         <div className="absolute w-full h-1/4 bg-cover bg-bottom  text-white text-center">
           <img src="background.jpg"></img>
         </div>
