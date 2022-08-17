@@ -26,7 +26,7 @@ const Ban = () => {
 
                     <div className="flex justify-center text-white  bg-gradient-to-r from-transparent
                  to-green-800 text-6xl ">
-                        HAPPY 75th INDEPENCE DAY
+                        HAPPY 75th INDEPENDENCE DAY
                     </div>
                 </div>
             </div>
