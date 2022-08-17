@@ -7,7 +7,7 @@ const Ban = () => {
 
 
                     <h1 className=" flex justify-center mt-80 bg-white  text-4xl w-1/4 bg-opacity-50">
-                        Proud to be Indians</h1>
+                        Proud to be Indian </h1>
                     <p className="font-bold bg-white bg-opacity-50 bg-gradient-to-r from-transparent to-orange-400 
                 mt-20 font-Serif text-xl ">
 
