@@ -2,7 +2,7 @@ const Profile = () => {
   return (
     <div className="antialiased flex justify-center  text-gray-600 ">
 
-      <script src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
       <div className="absolute w-full min-h-screen">
         <div className="absolute w-full h-1/4 bg-cover bg-bottom  text-white text-center">
           <img src="background.jpg"></img>
@@ -20,11 +20,7 @@ const Profile = () => {
                 at SDNB vaishnav college,chennai. Beginner in coding developer</p>
               <div className="text-sm">EMAIL ID : sujitham312@gmail.com</div>
               <div className="flex flex-colinline-flex space-x-4 py-2 px-2">
-                <a href="https://www.linkedin.com/feed/"><ion-icon name="logo-linkedin"></ion-icon></a>
-
-
-                <a href="https://twitter.com/Sujitha33534520"> <ion-icon name="logo-twitter"></ion-icon></a>
-                <a href="https://github.com/sujitha1203"><ion-icon name="logo-github"></ion-icon></a>
+                
               </div>
               <div className="border-t border-gray-400 my-2"></div>
               <div className="flex justify-center">
